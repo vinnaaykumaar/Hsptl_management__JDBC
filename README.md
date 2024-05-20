@@ -26,7 +26,7 @@ Assign doctors to patients
 View patient prescriptions
 
 -------------------------------
-=======================================================
+
 Database Connectivity:
 =========================
 Utilizes JDBC to connect to a MySQL database
