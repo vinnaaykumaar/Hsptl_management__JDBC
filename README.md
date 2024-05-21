@@ -34,7 +34,7 @@ Prerequisites
 Java Development Kit (JDK)
 MySQL database server
 JDBC driver (included in the project)
-=======================================================
+======================================================
 Setup
 ------
 Clone this repository to your local machine.
